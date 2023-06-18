@@ -29,6 +29,19 @@ function App() {
       </div>
       </div>
      </header>
+     <section>
+      <div>
+        <h1>Move fast and securely with the password manager trusted
+          by millions.
+        </h1>
+        <p>Drive collaboration,boost productivity,and experience the power of open
+          source with Bitwarden, the easiest way to secure all your passwords and sensitive information
+        </p>
+        <a href=''>Get Started Today</a>
+        <a href=''>View Plans & Pricing</a>
+
+      </div>
+     </section>
     </>
   )
 }
