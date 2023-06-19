@@ -77,6 +77,10 @@ function App() {
         <h2>CHoose the plan that fits your needs</h2>
       </div>
      </section>
+
+     <footer>
+      <h3>Bitwarden</h3>
+     </footer>
     </>
   )
 }
