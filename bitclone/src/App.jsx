@@ -71,6 +71,12 @@ function App() {
         <h2>Generate, consolidate, and autofill strong and secure passwords for all your accounts</h2>
       </div>
      </section>
+
+     <section>
+      <div>
+        <h2>CHoose the plan that fits your needs</h2>
+      </div>
+     </section>
     </>
   )
 }
