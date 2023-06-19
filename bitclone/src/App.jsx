@@ -57,6 +57,14 @@ function App() {
         </div>
       </div>
      </section>
+     
+     <section>
+      <div>
+        <div>
+          <h2>Bitwarden helps businesses run quickly and securely</h2>
+        </div>
+      </div>
+     </section>
     </>
   )
 }
