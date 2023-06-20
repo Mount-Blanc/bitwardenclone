@@ -37,6 +37,7 @@ function App() {
 <main>
      <section>
       <div className='hero'>
+        <div className='hero-container'>
         <h1>Move fast and securely with the password manager trusted
           by millions.
         </h1>
@@ -45,7 +46,7 @@ function App() {
         </p>
         <a href=''>Get Started Today</a>
         <a href=''>View Plans & Pricing</a>
-
+</div>
       </div>
      </section>
 

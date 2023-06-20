@@ -70,3 +70,8 @@ margin: 0;
     border-radius: 3px;
     padding: 10px;
   }
+  .hero-container {
+    padding-top: 1rem;
+    padding-bottom: 7rem;
+    padding-inline: 6rem;
+  }
