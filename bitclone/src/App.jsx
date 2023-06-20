@@ -62,9 +62,24 @@ function App() {
         <div>
           <h2>Everything you need out of a password manager</h2>
           <div>
-            <div>Easy</div>
-            <div>Convienent</div>
-            <div>Secure</div>
+
+            <div>
+              <h4>Easy</h4>
+              <p>Powerful security within minutes</p>
+              <p>For those who want to do more,secure more, and collaborate more, Bitwarden is fast and easy to set up for both individuals and businesses.</p>
+            </div>
+
+            <div>
+              <h4>Convienent</h4>
+              <p>Unlimited passwords, unlimited devices</p>
+              <p>Cross platform access for mobile, browser, and desktop apps. Supported in over 50 languages.</p>
+            </div>
+
+            <div>
+              <h4>Secure</h4>
+              <p>Protect what's important to you</p>
+              <p>Zero knowledge, end-to-end encryption guides the Bitwarden open source approach to trust, accountability, and security.</p>
+            </div>
 
           </div>
         </div>
