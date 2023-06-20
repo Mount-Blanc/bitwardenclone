@@ -50,6 +50,13 @@ function App() {
       </div>
      </section>
 
+<div className='learnmore-banner'>
+<div>
+  <span>Bitwarden Passwordless.dev is now available!
+    <a href=''>Learn more</a>
+  </span>
+</div>
+</div>
      <section>
       <div>
         <div>

@@ -75,3 +75,11 @@ margin: 0;
     padding-bottom: 7rem;
     padding-inline: 6rem;
   }
+  .learnmore-banner {
+    background-color: rgb(26 59 102);
+    color: white;
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+
+  }
