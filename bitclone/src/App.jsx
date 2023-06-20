@@ -87,9 +87,27 @@ function App() {
      </section>
      
      <section>
-      <div>
+      <div className='customers'>
         <div>
           <h2>Bitwarden helps businesses run quickly and securely</h2>
+          <div className='customers-inner-container'>
+
+            <div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum odio cum</p>
+              <a href=''>Read More</a>
+            </div>
+
+            <div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum odio cum</p>
+              <a href=''>Read More</a>
+            </div>
+
+            <div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum odio cum</p>
+              <a href=''>Read More</a>
+            </div>
+
+          </div>
         </div>
       </div>
      </section>

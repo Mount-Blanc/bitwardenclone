@@ -105,3 +105,9 @@ margin: 0;
  .secondary-title {
   font-weight: bold;
  }
+ .customers {
+  background-color: #ecf0f5 ;
+ }
+.customers-inner-container {
+  display: flex;
+}
