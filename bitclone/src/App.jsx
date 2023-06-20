@@ -7,7 +7,7 @@ function App() {
     <>
      <header>
       <div className='header-container'>
-      <div>
+      <div className='nav-left'>
         <h1>bitwarden</h1>
         <ul>
           <li><a href=''>Personal</a></li>
@@ -19,8 +19,8 @@ function App() {
         </ul>
       </div>
 
-      <div>
-        <ul>
+      <div >
+        <ul className='nav-right'>
         <li><a href=''>Business Sales</a></li>
         <li><a href=''>Get Started</a></li>
         <li><a href=''>Log In</a></li>
