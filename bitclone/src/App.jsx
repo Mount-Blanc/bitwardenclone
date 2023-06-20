@@ -6,6 +6,11 @@ function App() {
   return (
     <>
      <header>
+      <div className='banner'>
+        <div className='banner-container'>
+          <span>Make the switch to Bitwarden with this helful resource</span>
+        </div>
+      </div>
       <div className='header-container'>
       <div className='nav-left'>
         <h1>bitwarden</h1>

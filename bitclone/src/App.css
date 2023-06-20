@@ -8,6 +8,17 @@ header {
   right: 0;
   top:0;
 }
+.banner {
+  background-color: rgb(26 59 102);
+}
+.banner-container {
+  margin-inline: 3rem;
+  line-height: 1rem;
+  text-align: center;
+  padding-bottom: 13.5px;
+  padding-top: 9px;
+  color:white;
+}
 .header-container {
   padding: 10px;
   display: flex;
