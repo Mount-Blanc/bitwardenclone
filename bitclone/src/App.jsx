@@ -11,7 +11,7 @@ function App() {
           <span>Make the switch to Bitwarden with this helful resource</span>
         </div>
       </div>
-      <div className='header-container'>
+      <nav className='header-container'>
       <div className='nav-left'>
         <h1>bitwarden</h1>
         <ul>
@@ -32,7 +32,7 @@ function App() {
 
       </ul>
       </div>
-      </div>
+      </nav>
      </header>
 
      <section>
