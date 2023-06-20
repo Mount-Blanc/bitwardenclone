@@ -83,11 +83,23 @@ margin: 0;
     padding-bottom: 2.5rem;
 
   }
+  .salepitch-container {
+    margin-inline:8rem;
+    margin-bottom: 8rem;
+  }
+  .salepitch-container h2 {
+    text-align: center;
+  }
   .salepitch-inner-container {
-
+    display: flex;
+    margin-inline: auto;
+  }
+  .salepitch-inner-container p {
+    text-align: center;
   }
   .salepitch-inner-container h4 {
     font-weight: bold;
+    text-align: center;
   }
  .secondary-title {
   font-weight: bold;

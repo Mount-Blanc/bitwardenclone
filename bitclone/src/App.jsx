@@ -59,7 +59,7 @@ function App() {
 </div>
      <section>
       <div>
-        <div>
+        <div className='salepitch-container'>
           <h2>Everything you need out of a password manager</h2>
           <div className='salepitch-inner-container'>
 
