@@ -89,6 +89,7 @@ margin: 0;
   }
   .salepitch-container h2 {
     text-align: center;
+    padding: 2.5rem;
   }
   .salepitch-inner-container {
     display: flex;
