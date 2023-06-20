@@ -1,5 +1,6 @@
 body {
-  margin-top:300px;
+  margin-top:125px;
+  margin-inline: 0;
 }
 
 header {
@@ -57,4 +58,15 @@ margin: 0;
 }
 .nav-right li {
   padding: 10px;
+  }
+  .hero {
+    background-color: rgb(23 93 220);
+    color:white;
+  }
+  .hero a {
+    color: white;
+    text-decoration: none;
+    outline: 2px solid white;
+    border-radius: 3px;
+    padding: 10px;
   }

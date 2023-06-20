@@ -34,9 +34,9 @@ function App() {
       </div>
       </nav>
      </header>
-
+<main>
      <section>
-      <div>
+      <div className='hero'>
         <h1>Move fast and securely with the password manager trusted
           by millions.
         </h1>
@@ -86,6 +86,7 @@ function App() {
      <footer>
       <h3>Bitwarden</h3>
      </footer>
+     </main>
     </>
   )
 }
