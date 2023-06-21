@@ -124,14 +124,18 @@ align-items: center;
 .trial-banner {
   background-color: #1252a3;
   color: white;
+  padding: 36px;
 }
 .trial-banner-container {
-margin-inline:40rem ;
+width: 100%;
+display: flex;
+align-items: center;
+flex-direction: column;
+
 }
 .trial-button {
   background-color: #27ff75;
   border-radius: 5px;
-  height: 3rem;
   padding: .8rem;
   text-decoration: none;
   color: #1252a3;
