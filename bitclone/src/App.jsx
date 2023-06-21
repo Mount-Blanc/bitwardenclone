@@ -111,7 +111,12 @@ function App() {
         </div>
       </div>
      </section>
-
+<div className='trial-banner'>
+  <div className='trial-banner-container'>
+    <h2>Work more productively and power up your protection</h2>
+    <a className='trial-button' href=''>Start an Enterprise Trial</a>
+  </div>
+</div>
      <section>
       <div>
         <h2>Generate, consolidate, and autofill strong and secure passwords for all your accounts</h2>

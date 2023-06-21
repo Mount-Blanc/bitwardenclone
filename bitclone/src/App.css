@@ -121,3 +121,19 @@ align-items: center;
   margin-top:4rem;
   max-width: 60rem;
 }
+.trial-banner {
+  background-color: #1252a3;
+  color: white;
+}
+.trial-banner-container {
+margin-inline:40rem ;
+}
+.trial-button {
+  background-color: #27ff75;
+  border-radius: 5px;
+  height: 3rem;
+  padding: .8rem;
+  text-decoration: none;
+  color: #1252a3;
+  font-weight: 500;
+}
