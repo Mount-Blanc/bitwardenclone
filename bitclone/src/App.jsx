@@ -88,7 +88,7 @@ function App() {
      
      <section>
       <div className='customers'>
-        <div>
+        <div className='customers-container'>
           <h2>Bitwarden helps businesses run quickly and securely</h2>
           <div className='customers-inner-container'>
 
