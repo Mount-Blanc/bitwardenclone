@@ -143,7 +143,13 @@ function App() {
         </div>
       </div>
      </section>
-
+     <div className='report'>
+  <div className='report-container'>
+    <h5>451 Research PDF Download</h5>
+    <h4>2022 Enterprise Password Management Report</h4>
+    <a className='report-button' href=''>Start an Enterprise Trial</a>
+  </div>
+</div>
      <section>
       <div>
         <h2>CHoose the plan that fits your needs</h2>
