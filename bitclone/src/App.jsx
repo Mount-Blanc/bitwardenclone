@@ -118,8 +118,29 @@ function App() {
   </div>
 </div>
      <section>
-      <div>
-        <h2>Generate, consolidate, and autofill strong and secure passwords for all your accounts</h2>
+      <div className='features-container'>
+        <div>
+          <h2>Generate, consolidate, and autofill strong and secure passwords for all your accounts</h2>
+          <p>Bitwarden gives you power to create and manage unique passwords, so you can strengthen privacy and boost productivity online from any device or location.</p>
+          <a href=''>How Bitwarden Works</a>
+        </div>
+
+        <div>
+          <h2>Securely share encrypted information directly with anyone</h2>
+          <p>Bitwarden Send is a feature that allows all users to transmit data directly to others, while maintaining end-to-end encrypted security and limiting exposure.</p>
+          <a href=''>About Bitwarden send</a>
+        </div>
+
+        <div>
+          <h2>Protect more than your passwords</h2>
+          <p>Store all types of sensitive data, transmit it securely to anyone, access vault health reports—and much more.</p>
+        </div>
+
+        <div>
+          <h2>Gain peace of mind with comprehensive compliance</h2>
+          <p>Protect your online data using a password manager you can trust. Bitwarden conducts regular third-party security audits and is compliant with GDPR, SOC 2, HIPAA, Privacy Shield, and CCPA standards.</p>
+          <a href=''>More on Security & Compliance</a>
+        </div>
       </div>
      </section>
 

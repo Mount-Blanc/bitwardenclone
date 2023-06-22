@@ -141,3 +141,17 @@ flex-direction: column;
   color: #1252a3;
   font-weight: 500;
 }
+.features-container {
+  display: flex;
+  margin-inline: 10rem;
+  flex-direction: column;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  max-width: 32rem;
+}
+.features-container h2 {
+ margin-bottom: 1.5rem;
+}
+.features-container p {
+  margin-bottom: 1.5rem;
+ }
