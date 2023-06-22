@@ -151,8 +151,28 @@ function App() {
   </div>
 </div>
      <section>
+      <section>
+        <h2>Choose the plan that fits your needs</h2>
+        <div>
+          <button>Business</button>
+          <button>Personal</button>
+        </div>
+        <div>
+          <div>
+            Pricing shown in USD and based on an annual subscription.
+          <div>
+            <article>
+              <h3>Teams Organization</h3>
+            </article>
+            <article>
+              <h3>Enterprise Organization</h3>
+            </article>
+
+          </div>
+          </div>
+        </div>
+      </section>
       <div>
-        <h2>CHoose the plan that fits your needs</h2>
       </div>
      </section>
 
