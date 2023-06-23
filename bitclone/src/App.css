@@ -1,6 +1,7 @@
 body {
   margin-top:125px;
   margin-inline: 0;
+  margin-bottom:0;
 }
 
 header {
@@ -166,4 +167,13 @@ align-items: center;
 justify-content: center;
 flex-direction: column;
 text-align: left;
+}
+footer {
+  background-color: rgb(26 59 102);
+  color: white;
+}
+.footer-container {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+
 }

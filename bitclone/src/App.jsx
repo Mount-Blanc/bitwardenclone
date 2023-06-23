@@ -177,7 +177,9 @@ function App() {
      </section>
 
      <footer>
+      <div className='footer-container'>
       <h3>Bitwarden</h3>
+      </div>
      </footer>
      </main>
     </>
