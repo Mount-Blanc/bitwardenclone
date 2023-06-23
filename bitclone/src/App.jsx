@@ -180,6 +180,18 @@ function App() {
       <div className='footer-container'>
         <div className='footer-wrapper'>
           <div className='footer-heading'> <h3>Bitwarden</h3></div>
+          <div>
+            <h3>Products</h3>
+            <ul>
+              <li><a href=''>How Bitwarden Works</a></li>
+              <li><a href=''>Download Options</a></li>
+              <li><a href=''>Passkeys and Passwordless</a></li>
+              <li><a href=''>Bitwarden Send</a></li>
+              <li><a href=''>Pricing for Business</a></li>
+              <li><a href=''>Pricing for Individuals</a></li>
+              <li><a href=''>Managed Service Providers</a></li>
+            </ul>
+          </div>
       </div>
       </div>
      </footer>
