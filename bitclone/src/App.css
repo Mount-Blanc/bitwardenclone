@@ -180,6 +180,14 @@ footer {
 .footer-wrapper {
   margin-left: auto;
   margin-right: auto;
+  color: white;
+}
+.footer-wrapper li {
+  list-style: none;
+}
+.footer-wrapper li a {
+  text-decoration: none;
+  color: white;
 }
 .footer-heading {
   border-bottom: 1px solid grey;
